@@ -1,6 +1,6 @@
 {
     "canisters": {
-        "icp_simple_site": {
+        "ICP_Codecamp": {
             "frontend": {
                 "entrypoint": "src/index.html"
             },
